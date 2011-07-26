@@ -38,17 +38,17 @@ Sets rotate in and out every year when the first set of an expansion block is re
 
 Here is a rough timeline of the current rotation:
 
-Before September 2010		September 2010						February 2011						May 2011										July 2011						September 2011
-																																					-> we are here <-
-Currently legal:			Scars of Mirrodin set is released	Mirrodin Besieged set is released	New Phyrexia set is released					Magic 2012 Core set released	Innistrad set will be released
-- Shards of Alara block		Scars of Mirrodin rotates in		Currently legal:					the last set of the Scars of Mirrodin block,	Currently legal:				Innistrad rotates in
-- Magic 2010 Core set		Shards of Alara block rotates out	- Zendikar block					completing the Scars of Mirrodin block			- Zendikar block				Zendikar block rotates out
-- Zendikar block			Magic 2010 rotates out				- Magic 2011 Core set				Currently legal:								- Magic 2011 Core set			Magic 2011 rotates out
-- Magic 2011 Core set		Currently legal:					- Scars of Mirrodin					- Zendikar block								- Scars of Mirrodin block		Currently legal:
-							- Zendikar block					- Mirrodin Besieged					- Magic 2011 Core set							- Magic 2012 Core set			- Scars of Mirrodin block
-							- Magic 2011 Core set													- Scars of Mirrodin block														- Magic 2012 Core set
-							- Scars of Mirrodin																																		- Innistrad
-
+    Before September 2010		September 2010						February 2011						May 2011										July 2011						September 2011
+    																																					-> we are here <-
+    Currently legal:			Scars of Mirrodin set is released	Mirrodin Besieged set is released	New Phyrexia set is released					Magic 2012 Core set released	Innistrad set will be released
+    - Shards of Alara block		Scars of Mirrodin rotates in		Currently legal:					the last set of the Scars of Mirrodin block,	Currently legal:				Innistrad rotates in
+    - Magic 2010 Core set		Shards of Alara block rotates out	- Zendikar block					completing the Scars of Mirrodin block			- Zendikar block				Zendikar block rotates out
+    - Zendikar block			Magic 2010 rotates out				- Magic 2011 Core set				Currently legal:								- Magic 2011 Core set			Magic 2011 rotates out
+    - Magic 2011 Core set		Currently legal:					- Scars of Mirrodin					- Zendikar block								- Scars of Mirrodin block		Currently legal:
+    							- Zendikar block					- Mirrodin Besieged					- Magic 2011 Core set							- Magic 2012 Core set			- Scars of Mirrodin block
+    							- Magic 2011 Core set													- Scars of Mirrodin block														- Magic 2012 Core set
+    							- Scars of Mirrodin																																		- Innistrad
+    
 From the above timeline, the dates before September 2010 and between July - September 2011 have the most number of sets in rotation (a total of 9 sets!). 
 On September 2010 & 2011 though, only 5 sets are legal. A few months from now, the Zendikar block and Magic 2011 Core set will rotate out. 
 
