@@ -56,6 +56,11 @@ Here is a rough timeline of the current rotation:
 From the above timeline, the dates before September 2010 and between July - September 2011 have the most number of sets in rotation (a total of 9 sets!). 
 On September 2010 & 2011 though, only 5 sets are legal. A few months from now, the Zendikar block and Magic 2011 Core set will rotate out. 
 
+#### Spoiler Season ####
+A few weeks before a set's release, Wizards goes into "spoiler season". The cards for the set are slowly revealed a bunch at a time to the world. This is another reason why the weeks before September are very good for getting back into Magic. Since the cards are revealed in bite-sized groups and the community tends to immediately assess a card's worth the minute it is spoiled, you get to know each card of the set pretty well. 
+
+So, for you returning players, watch out for spoiler season. 
+
 ### Identifying Which Set A Card Belongs ###
 Each card in Magic (except the really old ones from Alpha, Beta, etc.) has a symbol located at the right side just below the artwork. That symbol identifies which set it belongs to. 
 
