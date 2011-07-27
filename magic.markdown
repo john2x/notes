@@ -3,6 +3,8 @@ A Re-introduction to Magic: The Gathering or, How Do I Know Which Cards Are Stan
 
 If you've played [Magic: The Gathering][mtg] several years ago and only just recently wanted to start playing again, then the current ecosystem surrounding Magic might be a little daunting. There are about a thousand new cards released each year and it is near impossible to keep up. This post will attempt to help you get re-introduced to Magic. 
 
+*(I also just got back into playing a few months ago, so I know all too well the difficulties of catching up. )*
+
 [mtg]: http://www.wizards.com/Magic/Summoner/
 
 Blocks and Sets
@@ -35,6 +37,8 @@ Cards are considered legal for Standard when it is included in a set which is cu
 
 ### Set Rotations ###
 Sets rotate in and out every year when the first set of an expansion block is released. So, every Fall, when the first set of a new expansion is released, the oldest 4 sets rotate out and stop being Standard legal. This period, in my opinion, is the best time to re-introduce yourself to Magic, since during this time Standard will have the least number of cards legal and you get to "follow" how the new format develops. 
+
+*(I started just when Scars of Mirrodin was released, so I got to follow a lot of the cards' potential. To this day I have trouble identifying Zendikar and Magic 2011 cards.)*
 
 Here is a rough timeline of the current rotation:
 
@@ -80,21 +84,40 @@ When a Planeswalker's loyalty reaches 0, either from taking damage or using abil
 > has to compete with previously existing pieces. To compensate for this, new cards end up becoming superior 
 > to other cards to the point of becoming strictly superior.
 
+(from [MTG wiki][mtgwiki])
+
 Power creep, much more apparent on creatures, is affecting most new cards in Magic. 
 When you first encounter a [5/5 Trampler with "Whenever a source deals damage to this creature, that source's controller sacrifices that many permanents. " for 4 mana][obliterator], you can't help but feel that things are not what they used to be.
 Don't worry, you're not alone. You'll get used to it. Just remember, everything in Magic dies to something else. 
 
+[mtgwiki]: http://mtg.wikia.com/wiki/Power_Creep
 [obliterator]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214386
 
 ### Rarities ###
 
-There are 4 levels of rarity in Magic. Common, Uncommon, Rare and Mythic Rare. A card's power usually reflects its rarity (i.e. a mythic rares are usually very powerful). 
+There are 4 levels of rarity in Magic. Common, Uncommon, Rare and Mythic Rare. A card's power usually reflects its rarity (i.e. mythic rares are usually very powerful). 
 
 Rarity is determined by the color of a card's expansion symbol. A common has a flat black & white symbol. Uncommon has a silver shaded symbol. Rare has gold/yellow. Mythic Rares have an orange/dark gold color.
 
 ![The different rarity symbols][rarities]
 
 [rarities]: https://github.com/john2x/notes/raw/master/magic/rarities.png
+
+### Keywords ###
+
+Wizards introduced keywords to shorten text on cards which used to take up a lot of space. Most of the time these keywords have reminder text enclosed in parentheses.
+Examples are:
+
+- Haste; Previously "This creature is unaffected by summoning sickness"
+- Vigilance; Previously "Attacking does not cause this creature to tap"
+- Defender; Previously the "Wall" creature type
+- Lifelink; Previously "Whenever this permanent deals damage, you gain that much life"
+
+There are also several new keywords which don't have an equivalent to previous cards. The new mechanics from expansion sets, for example, usually only exist within the set. But some mechanics are known to return in future sets (e.g. Kicker).
+
+### Mana Burn ###
+
+Mana burn has been removed from the game completely. So infinite mana combos are now possible.
 
 Summary
 -------
