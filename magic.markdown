@@ -79,7 +79,7 @@ Several things have changed in Magic through the years. Listed below is a list o
 
 ### Planeswalkers ###
 Planeswalkers are a new type of card introduced in the Lorwyn block (2007). Flavorwise, Planeswalker cards are "allies" you summon to help you win. 
-They are like another player joining in the middle of the game and are usually very powerful. Creatures can attack them and can be targetted by some spells which can only target other players. 
+They are like another player joining in the middle of the game and are usually very powerful. Creatures can attack them and can be targetted by spells which deal damage to players. 
 
 Planeswalkers enter the battlefield with a default number of "loyalty" counters. These counters function as both the life and mana of a Planeswalker. 
 They have specific abilities with loyalty costs. Some abilities remove loyalty, while others add loyalty. These abilities can only be activated as a sorcery, and only once each turn. 
@@ -147,7 +147,7 @@ Power creep is a noticeable change which also take some getting used to.
 
 "What? I just wanted to know which cards are considered Standard legal. "
 
-Since the current rotation includes the Zendikar block, M11, Scars of Mirrodin block and M12, any cards which has the symbol of those sets are Standard legal. 
+Since the current rotation includes the Zendikar block, M11, Scars of Mirrodin block and M12, any card which has the symbol of those sets are Standard legal. 
 
 ![The symbols of the current Standard][standardsymbols]
 
