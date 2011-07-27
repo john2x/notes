@@ -12,7 +12,7 @@ These blocks usually have a theme/story occuring on a single plane attached to t
 
 ### Expansions ###
 The most recent block at the time of writing, "[Scars of Mirrodin][som]" (SOM), features cards depicting Phyrexia's invasion of Mirrodin. Mirrodin is an artifact plane, so its sets have a lot of artifacts, much more than a usual set, to reflect that.
-Each block will also introduce new mechanics. For SOM, it introduced *Metalcraft* and *Infect*. These mechanics are unique to the SOM block, and will not be featured in future blocks.
+Each block will also introduce new mechanics. For SOM, it introduced *Metalcraft*, *Proliferate* and *Infect*. These mechanics are unique to the SOM block, and will not be featured in future blocks.
 
 The first set of an expansion is released during Fall.
 
@@ -81,7 +81,7 @@ When a Planeswalker's loyalty reaches 0, either from taking damage or using abil
 > to other cards to the point of becoming strictly superior.
 
 Power creep, much more apparent on creatures, is affecting most new cards in Magic. 
-When you first encounter a [5/5 Trampler with "Whenever a source deals damage to this creature, that source's controller sacrifices that many permanents. " and with a converted mana cost of 4][obliterator], you can't help but feel that things are not what they used to be.
+When you first encounter a [5/5 Trampler with "Whenever a source deals damage to this creature, that source's controller sacrifices that many permanents. " for 4 mana][obliterator], you can't help but feel that things are not what they used to be.
 Don't worry, you're not alone. You'll get used to it. Just remember, everything in Magic dies to something else. 
 
 [obliterator]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214386
@@ -110,7 +110,7 @@ Power creep is a noticeable change which also take some getting used to.
 
 * * * *
 
-tl;dr:
+**tl;dr:**
 
 "What? I just wanted to know which cards are considered Standard legal. "
 
@@ -118,5 +118,5 @@ Since the current rotation includes the Zendikar block, M11, Scars of Mirrodin b
 
 ![The symbols of the current Standard][standardsymbols]
 
-[standardsymbols]: http://doqdoq.com/OoPS0.png
+[standardsymbols]: https://github.com/john2x/notes/raw/master/magic/standardsymbols.png
 
