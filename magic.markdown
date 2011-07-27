@@ -61,7 +61,12 @@ Each card in Magic (except the really old ones from Alpha, Beta, etc.) has a sym
 
 ![A card with the symbol highlighted][symbol]
 
+One thing to note, though, is that you can use cards printed on previous sets as long as it has the same name as a card printed in a Standard legal set. For example, Giant Spider, printed since Alpha, has been printed in every Core set since then. You can still use your Alpha Giant Spider in your current Standard deck.
+
+![These cards can all be used in a Standard deck][giantspider]
+
 [symbol]: https://github.com/john2x/notes/raw/master/magic/symbol.png
+[giantspider]: https://github.com/john2x/notes/raw/master/magic/giantspider.png
 
 What's New
 ----------
