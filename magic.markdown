@@ -31,7 +31,7 @@ The Standard Format
 -------------------
 There are several official formats in Magic, but [Standard][standard] is usually considered the "default" and most popular format. 
 
-To play standard, you need to have a deck of *no less than* 60 cards, using only cards which are legal in Standard, with no more than 4 copies of each card (excluding basic lands). You can have a sideboard of at most 15 cards, the 4-of rule still applied. 
+To play standard, you need to have a deck of *no less than* 60 cards, using only cards which are legal in Standard, with no more than 4 copies of each card (excluding basic lands). You can choose to have a sideboard of 15 cards, the 4-of rule still applied, or no sideboard at all. 
 
 Cards are considered legal for Standard when it is included in a set which is currently in "rotation". 
 
