@@ -57,7 +57,7 @@ Each card in Magic (except the really old ones from Alpha, Beta, etc.) has a sym
 
 ![A card with the symbol highlighted][symbol]
 
-[symbol]: https://github.com/john2x/notes/tree/master/magic/symbol.png
+[symbol]: https://github.com/john2x/notes/raw/master/magic/symbol.png
 
 What's New
 ----------
@@ -94,7 +94,7 @@ Rarity is determined by the color of a card's expansion symbol. A common has a f
 
 ![The different rarity symbols][rarities]
 
-[rarities]: https://github.com/john2x/notes/tree/master/magic/rarities.png
+[rarities]: https://github.com/john2x/notes/raw/master/magic/rarities.png
 
 Summary
 -------
