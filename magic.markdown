@@ -145,21 +145,21 @@ For a simplified example:
 2. Since Lightning Bolt is still on the stack, Player 2 is given chance to "respond" to the spell. Player 2 responds to this threat by activating Ember Hauler's ability (since it's going to die, anyway). 
 
     The Stack:
-	1. Ember Hauler sacrificed, targetting Player 1 for 2 damage
+    1. Ember Hauler sacrificed, targetting Player 1 for 2 damage
     2. Lightning Bolt targetting Ember Hauler for 3 damage
 
 3. Player 1 has no mana left, so allows the Ember Hauler's ability to resolve. Once there are no more responses, the stack can begin to resolve.
 
-	The top item on the stack resolves. 
-	Ember Hauler dies and goes to the graveyard, dealing 2 damage to Player 1.
+    The top item on the stack resolves. 
+    Ember Hauler dies and goes to the graveyard, dealing 2 damage to Player 1.
 	
-	The Stack:
+    The Stack:
     1. Lightning Bolt targetting Ember Hauler for 3 damage
-
-	The top item on the stack resolves. 
-	But the Ember Hauler being targetted is already dead! 
-	Lightning Bolt has no legal target now. 
-	In effect, the spell "fizzles" out. It's effect is negated. 
+        
+    The top item on the stack resolves. 
+    But the Ember Hauler being targetted is already dead! 
+    Lightning Bolt has no legal target now. 
+    In effect, the spell "fizzles" out. It's effect is negated. 
 
 But what if Player 1 had extra red mana open and another Lightning Bolt? Can he respond to Ember Hauler's ability by targetting it again? The answer to that is "no". Since the cost of Ember Hauler's ability is "`1`, Sacrifice Ember Hauler:", and costs need to be paid before the effects can go on the stack, Ember Hauler is already dead by the time Player 1 can respond. Costs cannot be responded to and do not go on the stack. 
 
