@@ -118,16 +118,57 @@ Rarity is determined by the color of a card's expansion symbol. A common has a f
 Wizards introduced keywords to shorten text on cards which used to take up a lot of space. Most of the time these keywords have reminder text enclosed in parentheses.
 Examples are:
 
-- Haste; Previously "This creature is unaffected by summoning sickness"
-- Vigilance; Previously "Attacking does not cause this creature to tap"
-- Defender; Previously the "Wall" creature type
-- Lifelink; Previously "Whenever this permanent deals damage, you gain that much life"
+- *Haste*; Previously "This creature is unaffected by summoning sickness"
+- *Vigilance*; Previously "Attacking does not cause this creature to tap"
+- *Defender*; Previously the "Wall" creature type
+- *Lifelink*; Previously "Whenever this permanent deals damage, you gain that much life"
 
-There are also several new keywords which don't have an equivalent to previous cards. The new mechanics from expansion sets, for example, usually only exist within the set. But some mechanics are known to return in future sets (e.g. Kicker).
+There are also several new keywords which don't have an equivalent to previous cards. The new mechanics from expansion sets, for example, usually only exist within the set. But some mechanics are known to return in future sets (e.g. *Kicker*).
 
 ### Mana Burn ###
 
 Mana burn has been removed from the game completely. So infinite mana combos are now possible.
+
+### The Stack ###
+
+When players cast spells (anything that comes from your hand with a mana cost symbol is a spell, even if that cost is `0`) or activate abilities of permanents, these spells and abilities go onto a "stack" before taking effect.
+
+The stack could be a difficult concept to grasp *(I have yet to grok it properly)*, but if you try to imagine placing the spells (or permanents for abilities) on top of each other as they are cast or triggered, then start removing them one at a time starting from the top, and at the same time applying the spell's/ability's effect, it should help in keeping track of the stack.  
+
+For a simplified example:
+
+1. Player 1 casts a [Lightning Bolt][] to kill Player 2's [Ember Hauler][].
+
+    The Stack:
+    1. Lightning Bolt targetting Ember Hauler
+
+2. Since Lightning Bolt is still on the stack, Player 2 is given chance to "respond" to the spell. Player 2 responds to this threat by activating Ember Hauler's ability (since it's going to die, anyway). 
+
+    The Stack:
+	1. Ember Hauler sacrificed, targetting Player 1 for 2 damage
+    2. Lightning Bolt targetting Ember Hauler for 3 damage
+
+3. Player 1 has no mana left, so allows the Ember Hauler's ability to resolve. Once there are no more responses, the stack can begin to resolve.
+
+	The top item on the stack resolves. 
+	Ember Hauler dies and goes to the graveyard, dealing 2 damage to Player 1.
+	
+	The Stack:
+    1. Lightning Bolt targetting Ember Hauler for 3 damage
+
+	The top item on the stack resolves. 
+	But the Ember Hauler being targetted is already dead! 
+	Lightning Bolt has no legal target now. 
+	In effect, the spell "fizzles" out. It's effect is negated. 
+
+But what if Player 1 had extra red mana open and another Lightning Bolt? Can he respond to Ember Hauler's ability by targetting it again? The answer to that is "no". Since the cost of Ember Hauler's ability is "`1`, Sacrifice Ember Hauler:", and costs need to be paid before the effects can go on the stack, Ember Hauler is already dead by the time Player 1 can respond. Costs cannot be responded to and do not go on the stack. 
+
+Most of the time, though, situations are not as simple as the example above. If you have trouble resolving a spell or ability, checking the [card's detailed ruling online][gatherer] or asking on [other websites][rmagictcg] is the best course of action. You also get to learn a lot.
+
+[Lightning Bolt]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234704
+[Ember Hauler]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208008
+[gatherer]: http://gatherer.wizards.com/Pages/Default.aspx
+[rmagictcg]: http://www.reddit.com/r/magicTCG/
 
 Summary
 -------
@@ -140,6 +181,8 @@ Sets rotate in & out every Fall when a new expansion is released.
 Planeswalkers are a new card type which take some getting used to. 
 
 Power creep is a noticeable change which also take some getting used to.
+
+The stack is where spells or abilities go before their effects take effect. Visualizing the physical cards as they are cast or activated being placed on top of each other can help in understanding it. 
 
 * * * *
 
